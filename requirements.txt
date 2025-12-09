@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-multipart
+langchain
+langchain-huggingface
+langchain-community
+sentence-transformers
+transformers
+torch
+pypdf
+chromadb
+huggingface-hub
+python-dotenv
+streamlit
+requests
+tqdm
+langsmith
