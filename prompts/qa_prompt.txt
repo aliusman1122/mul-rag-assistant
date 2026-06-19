@@ -1,0 +1,16 @@
+Use the following context from Minhaj University Lahore official documents to answer the question.
+
+CONTEXT:
+{context}
+
+QUESTION:
+{question}
+
+INSTRUCTIONS:
+- Answer based ONLY on the context above
+- If the context doesn't contain the answer, say "I don't have this specific information in my knowledge base. Please contact MUL Admission Office directly."
+- Be concise, clear, and helpful
+- If mentioning fees, add a note to verify with the admission office
+- Format your answer clearly with bullet points if listing multiple items
+
+ANSWER:

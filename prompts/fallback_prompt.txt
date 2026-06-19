@@ -1,0 +1,12 @@
+The user asked: {question}
+
+No relevant information was found in the university documents for this query.
+
+Please respond helpfully by:
+1. Acknowledging you don't have that specific information
+2. Suggesting they contact the university directly:
+   - Email: info@mul.edu.pk
+   - Phone: +92-42-35761999
+   - Website: www.mul.edu.pk
+   - Visit: Township, Lahore, Pakistan
+3. Offering to help with other questions you might know about
